@@ -7,6 +7,8 @@ Latest Hello Android app is a sanity check repository for validating correct and
 - Android 5.1 (API Level 22)
 - Gradle: gradle-4.1
 
+![](https://github.com/melvincabatuan/LatestHelloAndroid/blob/master/screencapture/Capture.PNG)
+
 ## Platform Tools Path in Windows (Add this to Environment Path)
 
 ```
