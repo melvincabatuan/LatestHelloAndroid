@@ -2,7 +2,7 @@
 
 Latest Hello Android app is a sanity check repository for validating correct android studio set-up.
 
-- Android Studio 3.0.1
+- Android Studio 3.0.1 (https://developer.android.com/studio/index.html)
 - Test Device: FlareS3Octa_5.1 (Model x330)
 - Android 5.1 (API Level 22)
 - Gradle: gradle-4.1
