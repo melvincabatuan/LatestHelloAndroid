@@ -1,5 +1,13 @@
 # LatestHelloAndroid
 
+- Android Studio 3.5 (build August 9, 2019)
+
+![](https://github.com/melvincabatuan/LatestHelloAndroid/blob/master/2019.JPG)
+
+
+
+## OLD
+
 Latest Hello Android app is a sanity check repository for validating correct android studio set-up.
 
 - Android Studio 3.0.1 (https://developer.android.com/studio/index.html)
